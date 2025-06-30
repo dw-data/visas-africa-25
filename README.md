@@ -4,7 +4,7 @@ Interviews and writing: Silja Fröhlich
 
 Data analysis and visualization: Gianna-Carina Gruen
 
-*You can read the story [here in English](dw.com/a-73022000) and [German](dw.com/a-72794536).*
+*You can read the story [here in English](https://dw.com/a-73022000) and [German](https://dw.com/a-72794536).*
 
 ## Data sources
 
